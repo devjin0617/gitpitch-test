@@ -7,4 +7,8 @@
 
 @title[Some custom label]
 
-@content[Content label]
+# Some custom label
+
+@title[Content label]
+
+# Content label
